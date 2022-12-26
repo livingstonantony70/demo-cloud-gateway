@@ -26,3 +26,4 @@ spring:
             - Path=/department/**
 
 ```
+
