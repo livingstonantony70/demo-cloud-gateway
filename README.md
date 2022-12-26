@@ -1,6 +1,12 @@
 # demo-cloud-gateway
 
 ```
+<dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-gateway</artifactId>
+</dependency>
+```
+```
 server:
   port: 8084
 
